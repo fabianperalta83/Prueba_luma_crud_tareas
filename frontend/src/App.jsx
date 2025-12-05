@@ -28,7 +28,7 @@ function App() {
                 </main>
 
                 <footer className="app-footer">
-                    <p>Task Manager - Full Stack CRUD Application</p>
+                    
                 </footer>
             </div>
         </Router>
