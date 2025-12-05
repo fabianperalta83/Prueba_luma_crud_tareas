@@ -14,7 +14,7 @@ function App() {
                         <Link to="/" className="header-title">
                             <h1>Gestor de Tareas</h1>
                         </Link>
-                        <p>Organiza tu trabajo de manera eficiente</p>
+                        
                     </div>
                 </header>
 
