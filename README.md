@@ -2,12 +2,14 @@
 
 Aplicación completa de gestión de tareas con backend Node.js/Express y frontend React.
 
-Instalacion y ejecucion
+Instalacion y ejecucion del aplicativo
 
-backend puerto 5000
 
+El backend se ejecuta en el puerto 5000
+
+las siguientes instrucciones son las que se deben realizar para la ejecucion del backend
 ```bash
-cd backend
+cd backend   # es la ubicacion de la carpeta backend
 npm install
 npm start
 ```
@@ -15,9 +17,8 @@ npm start
 El servidor estará disponible en: `http://localhost:5000`
 
 
-
-frontend puerto 3000
-
+ahora  el frontend se ejecutar en el puerto 3000
+las siguientes instrucciones son las que se deben realizar para la ejecucion del frontend
 ```bash
 cd frontend
 npm install
